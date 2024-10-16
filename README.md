@@ -8,7 +8,7 @@ Architect expert with Enterprise Architecture, DevSecOps, and J2C with Azure and
 
 * 🌍  I'm based in Bogotá, Colombia
 * ✉️  You can contact me at [hector.serranoluna@gmail.com](mailto:hector.serranoluna@gmail.com)
-* 🧠  I'm learning Cloud computing
+* 🧠  I'm learning about Cloud Computing
 * 🤝  I'm open to collaborating on SDLC
 
 ### Skills
